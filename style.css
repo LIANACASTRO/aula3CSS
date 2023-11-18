@@ -1,0 +1,26 @@
+body{
+    background-color:#e6ffff ;
+}
+
+
+h1{
+    color: #292b4b; background-color: rgb(147, 241, 171); font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    background-color: aquamarine; font-size: xx-large ;
+}
+
+caption{color: rgb(235, 66, 15); font-size: larger;}
+
+p{
+    color: rgb(0, 0, 0); font-size: x-large; font-style: normal;
+}
+
+img{
+    max-width: 500px;
+}
+
+a:hover{
+    color: #0f1cd1;
+}
